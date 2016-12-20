@@ -1,0 +1,6 @@
+C:\Users\Akashpatel\Desktop\Marlabs\accountnumber\accountnumber\bin\Debug\accountnumber.exe.config
+C:\Users\Akashpatel\Desktop\Marlabs\accountnumber\accountnumber\bin\Debug\accountnumber.exe
+C:\Users\Akashpatel\Desktop\Marlabs\accountnumber\accountnumber\bin\Debug\accountnumber.pdb
+C:\Users\Akashpatel\Desktop\Marlabs\accountnumber\accountnumber\obj\Debug\accountnumber.csprojResolveAssemblyReference.cache
+C:\Users\Akashpatel\Desktop\Marlabs\accountnumber\accountnumber\obj\Debug\accountnumber.exe
+C:\Users\Akashpatel\Desktop\Marlabs\accountnumber\accountnumber\obj\Debug\accountnumber.pdb
